@@ -9,7 +9,7 @@ Deze masterclass-reeks bestaat uit de volgende lessen:
    - Gemiddelde, mediaan en modus
    - Standaarddeviatie en variantie
    - De normaalverdeling
-   - Eenvoudige plots maken met Pandas
+   - Eenvoudige plots maken
    - Inlezen gegeven uit CSV- en Excelbestanden
    - Confidence intervals en vaststellen of twee steekproeven afkomstig zijn uit dezelfde onderliggende populatie
    - P-waarden en significantie
