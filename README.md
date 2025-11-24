@@ -82,3 +82,7 @@ Er zijn allemaal Data Science technieken die ervoor zorgen dat de modellen die j
 Voor elk van de lessen is een Python-notebook beschikbaar met lesstof en voorbeeldcode. Deze notebooks kunnen worden uitgevoerd op Google Colab door op de knop "Open in Colab" te klikken bovenin elk notebook.
 
 Voor gebruik van Google Colab is een Google-account vereist.
+
+## Extra informatie
+
+Het notebook "extra_data_voorbewerken.ipynb" bevat voorbeeldcode die je kunt gebruiken om je eigen data te bewerken voordat je er analyses op los gaat laten.
